@@ -1,0 +1,38 @@
+/*#introArea {
+  background-color: rgba(0, 255, 255, 0.5);
+  width: 500px;
+  margin-left: 30%;
+}
+
+#introArea h1 {
+  margin-left: 15%;
+}*/
+
+#gameBoard {
+  width: 250px;
+  margin-left: 30%;
+}
+
+#gameBoard p {
+  text-align: center;
+}
+
+/*#buttonLocation button {
+  margin-left: 13%;
+}*/
+
+.container-fluid {
+  text-align: center;
+}
+
+.container-fluid li {
+  text-align: left;
+}
+
+.container-fluid h3 {
+  text-align: left;
+}
+
+.container-fluid p {
+  text-align: left;
+}
